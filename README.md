@@ -18,7 +18,7 @@ Sistem ini dibuat menggunakan:
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/username/project-crm.git
+git clone https://github.com/syifacatur/project-crm.git
 cd project-crm
 ```
 
